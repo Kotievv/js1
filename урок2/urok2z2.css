@@ -1,0 +1,25 @@
+p {
+    color: rgb(247, 20, 20);
+}
+.c1 {
+    color:green
+}
+.c2 {
+    color: rgb(65, 65, 241);
+}
+.c3 {
+    color: orange;
+}
+h2 {
+    width: 300px;
+}
+table {
+    width: 200;
+    height: 200;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: right;
+}

@@ -1,0 +1,33 @@
+.y {
+    color: green;
+}
+.list {
+    list-style: none;
+}
+
+h1 {
+    color: red;
+}
+.t3 {
+    color: red;
+}
+h2 {
+    color: yellow;
+}
+span {
+    color: violet ;
+}
+.s2 {
+    color: blue;
+}
+.tabl {
+    background-color: grey;
+}
+.foto {
+    border-radius: 50%;
+    height: 300;
+    width: 300px;
+}
+.foto2 {
+    border-radius: 50px 0px 50px 0px;
+}

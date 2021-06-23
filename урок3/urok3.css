@@ -1,0 +1,54 @@
+
+
+.rod {
+  width: 1144;
+  padding: 10px;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.b1 {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+   
+}
+
+.b2 {
+    background-color:palevioletred;
+    width: 200px;
+    height: 200px;
+}
+
+.b3 {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    }
+
+.b4 {
+    background-color: orchid;
+    width: 200px;
+    height: 200px;
+    }
+
+.b5 {
+    background-color: rebeccapurple;
+    width: 200px;
+    height: 200px;
+   }
+   .rod3 {
+       display: flex;
+       flex-wrap: ;
+       width: 900;
+   }
+
+
+
+
+   .z3 {
+       background-color: red;
+       display: flex;
+       
+   }
