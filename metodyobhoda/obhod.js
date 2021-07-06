@@ -25,8 +25,9 @@ console.log(numbs)
 
 //---------------------------------------------------------------------
 
-const lastElem = people.find(item => item === people[people.length - 1]);
+const lastElem = people.find((item) => item === people[people.length - 1]));
 console.log(lastElim)
+
 
 // 2  Вывести в консоль последний элемент массива
 const lastElem = people.find(item => item === people[people.length - 1]);
@@ -40,8 +41,7 @@ console.log(people.length)
 
 //------------------------------------------------------------------------
 
-
-const allItem = people.forEach(item => console.log(item))   
+console.log(people.map((item) => item))   
 // 3 Вывести в консоль все элементы массива используя наиболее удобный для этого метод
 
 
